@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorSize">#ccc</color>
+    <color name="colorsize">#fff</color>
+    <color name="colorsizes">#fc0</color>
+    <color name="colorBack">#F00</color>
+    <color name="colorthird">#FF33</color>
+    <color name="back">#000000</color>
+    <color name="colorback">#ccc</color>
+    <color name="colorxian">#efefef</color>
+</resources>
